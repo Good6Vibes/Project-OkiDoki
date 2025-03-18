@@ -9,7 +9,7 @@
 - Filing bug reports with a detailed description.
 
 #### Technology stack
-**Backend**
+**Backend**:
 Python: 3.13+
 Strawberry 0.262.1+
 uvicorn: 0.34+
