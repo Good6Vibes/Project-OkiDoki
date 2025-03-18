@@ -7,3 +7,10 @@
 - Testing on a mobile device:
 - UI/UX (visual errors, adaptability, interface usability);
 - Filing bug reports with a detailed description.
+
+#### Technology stack
+**Backend**
+Python: 3.13+
+Strawberry 0.262.1+
+uvicorn: 0.34+
+Redis: 7+
