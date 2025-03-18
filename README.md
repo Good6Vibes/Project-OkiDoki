@@ -14,3 +14,8 @@ Python: 3.13+
 Strawberry 0.262.1+
 uvicorn: 0.34+
 Redis: 7+
+**Frontend**:
+TypeScript
+Next.js
+Tailwind
+Redux
