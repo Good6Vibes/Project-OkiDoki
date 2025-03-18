@@ -13,7 +13,7 @@
 Python: 3.13+
 Strawberry 0.262.1+
 uvicorn: 0.34+
-Redis: 7+
+Redis: 7+ <br>
 **Frontend**:
 TypeScript
 Next.js
